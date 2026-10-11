@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Honda_S2000"
+
+generations:
+  - name: "AP1"
+    start_year: 1999
+    end_year: 2003
+    description: "The front-midship roadster with the 2.0 L F20C."
+  - name: "AP2"
+    start_year: 2004
+    end_year: 2009
+    description: "With the 2.2 L F22C1 and drive-by-wire throttle from 2006."
